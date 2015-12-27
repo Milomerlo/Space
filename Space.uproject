@@ -1,6 +1,13 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.10",
+	"EngineAssociation": "{3E950FFE-47C1-88A7-0C07-D7B866EB15FB}",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Space",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
 }
